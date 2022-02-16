@@ -39,6 +39,6 @@ public class App {
           System.out.println("Not a valid response");
       }
     }
-    System.out.println("Byeeee!");
+    System.out.println("Byeee!");
   }
 }
